@@ -12,6 +12,7 @@
 - ⚡ **Tailwind CSS** for modern UI design
 - ⚛️ **React.js** for interactive front-end applications
 - 🗄️ Databases and SQL (university projects)
+- Figma Designing
 
 ---
 
@@ -26,21 +27,7 @@
 - Node.js (beginner) • REST API Basics
 
 ### **Tools**
-- VS Code • Git & GitHub • Linux (Ubuntu)
-
----
-
-## 📌 Featured Projects
-- 🔹 **DSA-Lab-Challenges** — Solving university DSA problems using C++
-- 🔹 **TRISAL Project** — Practical C++ implementations
-- 🔹 **LF-Restaurant System** — Restaurant management system
-- 🔹 **(Upcoming) React Projects** — UI components, landing pages, dashboards
-- 🔹 **Web Practice** — HTML/CSS/JS real-life mini projects
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=effileo&show_icons=true&theme=radical)
+- VS Code • Git & GitHub
 
 ---
 
