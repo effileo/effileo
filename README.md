@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student  
 💡 Passionate about building real-world projects, solving problems, and learning full-stack development  
-💻 Currently working with **C++, DSA, HTML, CSS, JavaScript, Tailwind, and React.js**
+💻 Currently working with **C++, HTML, CSS, JavaScript, Tailwind, and React.js**
 
 ---
 
