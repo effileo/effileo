@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student  
 💡 Passionate about building real-world projects, solving problems, and learning full-stack development  
-💻 Currently working with **C++, HTML, CSS, JavaScript, Tailwind, and React.js**
+💻 Currently working with Python, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, and React.js**
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 ### **Languages**
-- C++ • Python • JavaScript • HTML • CSS
+- C++ • Python • JavaScript • HTML • CSS • Java
 
 ### **Frontend**
 - Tailwind CSS • React.js • Responsive Design
