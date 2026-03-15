@@ -40,4 +40,4 @@
 ---
 
 ## 📬 Contact Me
-- 🌐 GitHub: **github.com/effileo**
+- https://www.linkedin.com/in/fita-alemayehu-bulbulo-90bb71374/
