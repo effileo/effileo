@@ -1,0 +1,128 @@
+<svg width="100%" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Fita Alemayehu — GitHub Profile Card</title>
+<desc>Premium profile card for Fita Alemayehu, Full-Stack Engineer and Shopify App Architect based in Addis Ababa, Ethiopia.</desc>
+<defs>
+  <style>
+    .bg { fill: #0d1117; }
+    .panel { fill: #161b22; stroke: #30363d; stroke-width: 0.5; }
+    .avatar-ring { fill: none; stroke: #7f77dd; stroke-width: 1.5; stroke-dasharray: 4 2; }
+    .divider { stroke: #21262d; stroke-width: 0.5; }
+  </style>
+</defs>
+
+<rect width="680" height="420" rx="12" fill="#0d1117"/>
+<rect x="20" y="20" width="640" height="380" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<line x1="220" y1="20" x2="220" y2="400" stroke="#21262d" stroke-width="0.5"/>
+
+<!-- Avatar -->
+<circle cx="110" cy="90" r="48" fill="none" stroke="#7f77dd" stroke-width="1.5" stroke-dasharray="4 2"/>
+<circle cx="110" cy="90" r="42" fill="#1c2128"/>
+<text x="110" y="98" text-anchor="middle" font-family="Georgia,serif" font-size="22" font-weight="700" fill="#7f77dd">FA</text>
+<circle cx="148" cy="126" r="8" fill="#0d1117"/>
+<circle cx="148" cy="126" r="6" fill="#1d9e75"/>
+<text x="148" y="129.5" text-anchor="middle" font-family="Courier New,monospace" font-size="7" fill="#085041">ON</text>
+
+<!-- Left panel — identity -->
+<text x="110" y="165" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-weight="700" fill="#e6edf3">Fita Alemayehu</text>
+<text x="110" y="180" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#7f77dd" letter-spacing="0.5">effileo</text>
+<line x1="44" y1="196" x2="176" y2="196" stroke="#21262d" stroke-width="0.5"/>
+<text x="110" y="213" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#8b949e">Addis Ababa, Ethiopia</text>
+<text x="110" y="227" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#8b949e">BSc Software Engineering</text>
+<text x="110" y="241" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#8b949e">Addis Ababa University</text>
+<line x1="44" y1="257" x2="176" y2="257" stroke="#21262d" stroke-width="0.5"/>
+
+<!-- Specializations -->
+<text x="56" y="272" font-family="Courier New,monospace" font-size="8" fill="#484f58" letter-spacing="1">SPECIALIZATIONS</text>
+<rect x="44" y="279" width="132" height="16" rx="3" fill="#1c2128" stroke="#534ab7" stroke-width="0.5"/>
+<text x="110" y="290.5" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#afa9ec">Shopify App Architect</text>
+<rect x="44" y="300" width="132" height="16" rx="3" fill="#1c2128" stroke="#0f6e56" stroke-width="0.5"/>
+<text x="110" y="311.5" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#5dcaa5">Full-Stack Engineer</text>
+<rect x="44" y="321" width="132" height="16" rx="3" fill="#1c2128" stroke="#993c1d" stroke-width="0.5"/>
+<text x="110" y="332.5" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#f0997b">API &amp; Systems Design</text>
+
+<!-- Connect -->
+<line x1="44" y1="348" x2="176" y2="348" stroke="#21262d" stroke-width="0.5"/>
+<text x="56" y="363" font-family="Courier New,monospace" font-size="8" fill="#484f58" letter-spacing="1">CONNECT</text>
+<text x="56" y="376" font-family="Courier New,monospace" font-size="9" fill="#378add">linkedin / fita-alemayehu</text>
+<text x="56" y="389" font-family="Courier New,monospace" font-size="9" fill="#378add">fitaalemayehu12@gmail.com</text>
+
+<!-- Right panel — header -->
+<text x="240" y="52" font-family="Courier New,monospace" font-size="9" fill="#484f58" letter-spacing="1.5">$ whoami</text>
+<line x1="240" y1="58" x2="640" y2="58" stroke="#21262d" stroke-width="0.5"/>
+<text x="240" y="78" font-family="Georgia,serif" font-size="19" font-weight="700" fill="#e6edf3">Full-Stack Engineer</text>
+<text x="240" y="96" font-family="Courier New,monospace" font-size="11" fill="#7f77dd" letter-spacing="0.5">Shopify · GraphQL · Node.js · FastAPI · Next.js</text>
+<text x="240" y="122" font-family="Courier New,monospace" font-size="10" fill="#8b949e">I build production-grade systems — architecture first,</text>
+<text x="240" y="137" font-family="Courier New,monospace" font-size="10" fill="#8b949e">features second. From PostgreSQL schema to merchant</text>
+<text x="240" y="152" font-family="Courier New,monospace" font-size="10" fill="#8b949e">dashboard, I own the full stack end-to-end.</text>
+
+<!-- Stack section -->
+<line x1="240" y1="166" x2="640" y2="166" stroke="#21262d" stroke-width="0.5"/>
+<text x="240" y="183" font-family="Courier New,monospace" font-size="9" fill="#484f58" letter-spacing="1.5">$ ls ./stack</text>
+
+<!-- Frontend row -->
+<text x="240" y="200" font-family="Courier New,monospace" font-size="9" fill="#484f58">FRONTEND</text>
+<rect x="293" y="189" width="48" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="317" y="199" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#8b949e">React</text>
+<rect x="347" y="189" width="52" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="373" y="199" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#8b949e">Next.js</text>
+<rect x="405" y="189" width="66" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="438" y="199" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#8b949e">TypeScript</text>
+<rect x="477" y="189" width="64" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="509" y="199" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#8b949e">Tailwind CSS</text>
+
+<!-- Backend row -->
+<text x="240" y="220" font-family="Courier New,monospace" font-size="9" fill="#484f58">BACKEND</text>
+<rect x="292" y="209" width="52" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="318" y="219" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#5dcaa5">Node.js</text>
+<rect x="350" y="209" width="52" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="376" y="219" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#5dcaa5">FastAPI</text>
+<rect x="408" y="209" width="56" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="436" y="219" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#5dcaa5">GraphQL</text>
+<rect x="470" y="209" width="54" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="497" y="219" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#5dcaa5">Express</text>
+
+<!-- Database row -->
+<text x="240" y="240" font-family="Courier New,monospace" font-size="9" fill="#484f58">DATABASE</text>
+<rect x="298" y="229" width="70" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="333" y="239" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#f0997b">PostgreSQL</text>
+<rect x="374" y="229" width="54" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="401" y="239" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#f0997b">MongoDB</text>
+<rect x="434" y="229" width="42" height="14" rx="3" fill="#1c2128" stroke="#30363d" stroke-width="0.5"/>
+<text x="455" y="239" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#f0997b">Prisma</text>
+
+<!-- Shopify row -->
+<text x="240" y="260" font-family="Courier New,monospace" font-size="9" fill="#484f58">SHOPIFY</text>
+<rect x="292" y="249" width="66" height="14" rx="3" fill="#161b22" stroke="#534ab7" stroke-width="0.5"/>
+<text x="325" y="259" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#afa9ec">Admin API</text>
+<rect x="364" y="249" width="76" height="14" rx="3" fill="#161b22" stroke="#534ab7" stroke-width="0.5"/>
+<text x="402" y="259" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#afa9ec">Storefront API</text>
+<rect x="446" y="249" width="62" height="14" rx="3" fill="#161b22" stroke="#534ab7" stroke-width="0.5"/>
+<text x="477" y="259" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#afa9ec">App Bridge</text>
+<rect x="514" y="249" width="58" height="14" rx="3" fill="#161b22" stroke="#534ab7" stroke-width="0.5"/>
+<text x="543" y="259" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#afa9ec">Webhooks</text>
+
+<!-- Projects section -->
+<line x1="240" y1="275" x2="640" y2="275" stroke="#21262d" stroke-width="0.5"/>
+<text x="240" y="292" font-family="Courier New,monospace" font-size="9" fill="#484f58" letter-spacing="1.5">$ cat ./projects</text>
+
+<rect x="240" y="300" width="190" height="60" rx="5" fill="#1c2128" stroke="#21262d" stroke-width="0.5"/>
+<text x="252" y="316" font-family="Courier New,monospace" font-size="9" font-weight="700" fill="#e6edf3">Hotel &amp; Restaurant System</text>
+<text x="252" y="329" font-family="Courier New,monospace" font-size="8.5" fill="#8b949e">Multi-tenant · React · Node.js</text>
+<text x="252" y="342" font-family="Courier New,monospace" font-size="8.5" fill="#8b949e">PostgreSQL · Prisma · RBAC</text>
+<text x="252" y="355" font-family="Courier New,monospace" font-size="8" fill="#5dcaa5">full-stack · production</text>
+
+<rect x="440" y="300" width="200" height="60" rx="5" fill="#1c2128" stroke="#21262d" stroke-width="0.5"/>
+<text x="452" y="316" font-family="Courier New,monospace" font-size="9" font-weight="700" fill="#e6edf3">HealthNet</text>
+<text x="452" y="329" font-family="Courier New,monospace" font-size="8.5" fill="#8b949e">PERN Stack · Auth · Role Access</text>
+<text x="452" y="342" font-family="Courier New,monospace" font-size="8.5" fill="#8b949e">Healthcare workflow APIs</text>
+<text x="452" y="355" font-family="Courier New,monospace" font-size="8" fill="#5dcaa5">full-stack · production</text>
+
+<rect x="240" y="368" width="190" height="32" rx="5" fill="#1c2128" stroke="#21262d" stroke-width="0.5"/>
+<text x="252" y="381" font-family="Courier New,monospace" font-size="9" font-weight="700" fill="#e6edf3">Mini-Git VCS</text>
+<text x="252" y="394" font-family="Courier New,monospace" font-size="8.5" fill="#8b949e">C++ · DSA · custom hashing</text>
+
+<rect x="440" y="368" width="200" height="32" rx="5" fill="#161b22" stroke="#534ab7" stroke-width="0.5"/>
+<text x="452" y="381" font-family="Courier New,monospace" font-size="9" font-weight="700" fill="#afa9ec">Shopify SaaS App</text>
+<text x="452" y="394" font-family="Courier New,monospace" font-size="8.5" fill="#8b949e">Next.js · GraphQL · Billing logic</text>
+
+</svg>
