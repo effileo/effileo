@@ -4,9 +4,7 @@
 
 </div>
 
----
-
-​```javascript
+```javascript
 const fita = {
   location:           "Addis Ababa, Ethiopia 🇪🇹",
   education:          "BSc Software Engineering — Addis Ababa University",
@@ -15,9 +13,7 @@ const fita = {
   beliefs:            "Architecture first. Clean code always. Ship things that last.",
   funFact:            "Built a version control system from scratch in C++.",
 };
-​```
-
----
+```
 
 ## Projects
 
