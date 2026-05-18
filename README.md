@@ -60,8 +60,6 @@ Production Shopify public app with Admin API, Storefront API, subscription billi
 
 <div align="center">
 
-*Designed with precision · Built for scale · Based in Addis Ababa*
-
-![Profile Views](https://komarev.com/ghpvc/?username=effileo&style=flat-square&color=7f77dd)
+*𝔀𝓪𝓵𝓴𝓲𝓷𝓰 𝓫𝔂 𝓯𝓪𝓲𝓽𝓱 𝓷𝓸𝓽 𝓫𝔂 𝓼𝓲𝓰𝓱𝓽*
 
 </div>
