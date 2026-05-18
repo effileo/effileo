@@ -1,1 +1,71 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-YzwZfM0DCMfxvN1iPwzMLL&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce="YzwZfM0DCMfxvN1iPwzMLL">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'maZ24piqS2kqw00PSkzCsehvoZgSKnShhr1hMSbROEU-1779087575-1.2.1.1-QRnj.JH1n2Iw7y9nviWV.dh4ZcmRNQXBvgVPzKfCj3soEQsR8ddBr.Jcw5TW3clG',cITimeS: '1779087575',cN: 'YzwZfM0DCMfxvN1iPwzMLL',cRay: '9fd8fae55a797893',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/api/organizations/1370442a-c6d3-4fe6-a71a-29d87f3b24f9/conversations/7f2af358-dffc-4bec-8469-07ec1ba8b71e/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2FREADME.md&__cf_chl_tk=bw4CQpoqft5M2nxh1IPJW8yhnB8Nc49azkeSH647JKE-1779087575-1.0.1.1-QvIHKKoWHndsTkABemz6IUxNV_6XIWVjuSZuiqdjcwY",cvId: '3',cZone: 'claude.ai',fa:"/api/organizations/1370442a-c6d3-4fe6-a71a-29d87f3b24f9/conversations/7f2af358-dffc-4bec-8469-07ec1ba8b71e/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2FREADME.md&__cf_chl_f_tk=bw4CQpoqft5M2nxh1IPJW8yhnB8Nc49azkeSH647JKE-1779087575-1.0.1.1-QvIHKKoWHndsTkABemz6IUxNV_6XIWVjuSZuiqdjcwY",md: 'upd6pq3maswVtMo1zuyBEBdYb1qabaHu_XAHCSu0Aks-1779087575-1.2.1.1-uIS1fv.XqIWZULSZVZvmefZBtDvA6bfD.dBgHQjdQGFvXJZWbjEHzZAOt.7OlS4uWjvgM0XPnUQCzb5A8kf.TbBVNGBk9lSD2VLppGzpub2w4xJ309YxoORS2oIYAKyEeAxkiembMbnS2T4oe1m7tfRT_VJT25deCfVgyn9vHiNhup0GSmsOVFXK.4EFc_1eyCrCThii4uUiJDy3mFgtgY0R.cgaHF4QvkGtFn2Y.Tf273Xrh6JtB7EGIfQSbyDcKOc4Fmc10otGLwQIDEFVIzxniPXUs9SbFazQT11kn4lwWIAuYKynU0V0zgAh7fpRJWHLeZPTLtGqbIkK3PmGNzziLG89a8RAupa6CUsKg0awdEGu4XAi7KhkbzH2wjZQWwlkxGGPLiCaJKCUBn8GsBUxuvzygkv4mCfibpb3K72RHy7_B.hZqExWMwvxrcEBFHeBHixi3pVwo6IjY_CWIRf6fC2Jlx.X6Om2rPBlVbUEDyvsZumjKSKCw.5XO0qRuocnhu3kZE_Kt5PIvis6vSmShOhPJFy89KlVE9aYfKcw4uqkbzneQ.w.O0p9le.uGOub4MjIKRPwQXPmroaByaelkMqdkcWD3OGV4GWZd68GMcQCF3H.LXEeQqQ8CaqNGw1KOESfSI4KZcpFaX82e54mzx.58wqXgol.YHZxaZESVDSmR9sRe4wr2bB3GbqPWeds9orAmhDGAwnTUPtlxRhKyfcVLTytW5PgovaoeQyuegswDNMwOC1Vj5jmKASNE0Cufv2.bUqvgWDzle9nTU13VNbvuI4D36rTauPfFPeMkOuWNbAM_9EnQHVy8Bk4zYaF2VsglOjoZbmeeL5GGiRIIo77RSvZOQWWMtnK8dYPxM_LqqtrKu1yUJywMZb7073jJlhOCyka5RAjscsXc25yxGvkTbc3uKA19HYb1dtts7snlqWg1Spzfw6P1L_pRTuhB.NTRnrv411QgYmhNHk4HXYbdHToITHcKFrS9IJbfOI7hAt0ZHov.SudWTtFk0huV_Gk4uCsG3GZ0wQUlgpWdqFMyVZVFJe8f6Dq01bsieGaVckMr5zXFEh1tZVFtFXRMi9ZBV35uZzaCeZgxTdqVLCvzY.IOxodkaagMTNJLzpnwxhNrgrVfONkBHaiAyQNIt1Ge2iTNgtg_fvO8gk7eUAW.zrnfjMDtdUeeaYbWeGm7NrLrniP3PpyAauJ9uTTpFuTjBhKGpNKlUcoNBCHSEcAQwvntLJl1ap4ZXKFb2j2UrNZDZ2UKBS4AjPh2W2fXfHUgkkNXrPwyv9BCpIx1P9d.qOghYg7WuBpC8t8OzEdPKmS16PHvtRQih.F7MVFTmGYnAVZlpAjAE6Yuw',mdrd: '3DYRJ8hAGgi_d0liCWtDd8nNZQZ7S.ZiEV4rWlKe1aE-1779087575-1.2.1.1-bE_pE79Xuzng4Y_QKtA4dWJYQNU78gTsaOPsEttakTdbcOdJGMeAvrijym0BGVTJ4xMXFF_DIwEGhN42XeTncVdXZyKHv2yLDymRoduwj_O1CMVchxr60E0SbH1msTMSbATeDzEhs1M309CHhwa3iLyuMijH2xm4xXMus7Up_8_j_h_CYIOkUkaTiDTPSaxk2rAu5maoBfdOuglKE0eiXZHsmdzrbLPlRt2wg.AczEkfoN47wyIS84lYCGw3QyLCmLu93HCVeQrAlCIhqmmFAh1obdwsA84CHthz7kIbMKX4A4pzEJ_yAPArOnNvOPPOuV_8zg_cYARWywueDeSPy2Z8XaxFBiin5mYjpUqjmiZZ0AqYauj8zFKkx6bT7ZTKWr4FSShbFMRQS4jllfnRwucIdDRsDoG67OwbSV8vmbLrvGZEk2GO3wOT_EJN6cPo7E5TH0tD8sdyO7VwZw.VKf4xvsCz0Stxc4hIF.fUpyKox2ytBzd_4iSZK8paSQwuRy_wr73j5oemJlmVnz386UQjNqGLFADkEX6rnsvNPHn874AAzXUEe5WiMP6SiuA7QWupc7QLo0LFi6r2hH.MJoQIn9L401xeasek35J5srLA92z4gjgTscKT3FyASU4EIHD.41Wq1xdEX09p4gyf_ZraoM_4HSr2w8pLmH6TMizcuA3ob48m.18EnX3KNNkCSflKA9r02kLhXK6cRdQ21u0GTyP8OSwth1vRUm3epKF1.H._dLHqM_M06m8ErKlsCZAurO9EQUR7W302LEJut97PVtIkAGru0SGItRAAe3H72_Nf_7NJhmexrFZLaHGBKCfyfbP_ZB9MNi_cwkcTG_sGrHUvPawhw7re312upBU',};var a = document.createElement('script');a.nonce = 'YzwZfM0DCMfxvN1iPwzMLL';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=9fd8fae55a797893';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/api/organizations/1370442a-c6d3-4fe6-a71a-29d87f3b24f9/conversations/7f2af358-dffc-4bec-8469-07ec1ba8b71e/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2FREADME.md&__cf_chl_rt_tk=bw4CQpoqft5M2nxh1IPJW8yhnB8Nc49azkeSH647JKE-1779087575-1.0.1.1-QvIHKKoWHndsTkABemz6IUxNV_6XIWVjuSZuiqdjcwY"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+<div align="center">
+
+![Fita Alemayehu](./profile-card.svg)
+
+</div>
+
+---
+
+​```javascript
+const fita = {
+  location:           "Addis Ababa, Ethiopia 🇪🇹",
+  education:          "BSc Software Engineering — Addis Ababa University",
+  focus:              ["Shopify App Architecture", "Full-Stack Web Apps", "API Systems"],
+  currentlyExploring: ["Agentic AI systems", "Advanced system design patterns"],
+  beliefs:            "Architecture first. Clean code always. Ship things that last.",
+  funFact:            "Built a version control system from scratch in C++.",
+};
+​```
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 Hotel & Restaurant Management System
+Full-stack multi-tenant platform for managing hotel branches and services.
+
+`React` `Node.js` `Express` `PostgreSQL` `Prisma`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 HealthNet
+Healthcare management web app — PERN stack with role-based access and secure APIs.
+
+`PostgreSQL` `Express` `React` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Mini-Git VCS
+A version control system built entirely in C++ — custom hashing, linked-list commit history, full state reversion.
+
+`C++` `Data Structures` `Algorithms`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ Shopify SaaS App
+Production Shopify public app with Admin API, Storefront API, subscription billing, and App Bridge embedded experience.
+
+`Next.js` `Remix` `GraphQL` `Node.js` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+*Designed with precision · Built for scale · Based in Addis Ababa*
+
+![Profile Views](https://komarev.com/ghpvc/?username=effileo&style=flat-square&color=7f77dd)
+
+</div>
